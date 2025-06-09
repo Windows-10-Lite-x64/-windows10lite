@@ -38,12 +38,6 @@ This is a stripped-down version of Windows 10 x64, intended for low-end PCs, vir
 
 ---
 
-## 📥 Download
-
-🔗 [Download Link]([https://archive.org/details/windows-10-lite-x64_202103](https://github.com/Windows-10-Lite-x64/-windows10lite/releases/download/V1.0.0/Windows.10.Lite.Edition.19H2.x64.iso)
-
----
-
 ## 📜 Legal Notice
 
 This ISO is not affiliated with or endorsed by Microsoft. All trademarks are property of their respective owners.  
